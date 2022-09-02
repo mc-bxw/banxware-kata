@@ -20,7 +20,8 @@ Assume that the square directly North from (x, y) is (x, y+1).
 **Input and Output**
  
 *Test Input*:
-`5 5
+```
+5 5
 
 1 2 N
 
@@ -28,8 +29,11 @@ LMLMLMLMM
 
 3 3 E
 
-MMRMMRMRRM`
+MMRMMRMRRM
+```
  
 *Expected Output*:
-`1 3 N
-5 1 E`
+```
+1 3 N
+5 1 E
+```
